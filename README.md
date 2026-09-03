@@ -18,7 +18,7 @@
 
 **Status:** 🚧 Specification complete (v0.1) — compiler implementation in progress.
 
-SLANG is not trying to be a "real" production language. It exists to be *small enough to finish* while still forcing you through every fundamental compiler problem: lexing, parsing, ASTs, symbol tables, type checking, control flow, an MLIR dialect, lowering passes, LLVM IR, and native codegen.
+Slang is not a language to use in production . It is just a simple language for enhancing my own understanding in MLIR & LLVM.
 
 ---
 
