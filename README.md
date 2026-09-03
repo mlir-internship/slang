@@ -1,12 +1,28 @@
+<div align="center">
+
+<img src="logo.png" alt="SLANG Logo" width="160">
+
 # SLANG
 
 > A small, statically-typed, C-like language for learning compiler construction with **MLIR** and **LLVM**.
+
+<p>
+  <img src="https://img.shields.io/badge/status-in%20development-orange?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/version-v0.1-blue?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/github/stars/mlir-internship/slang?style=flat-square" alt="GitHub stars">
+  <img src="https://img.shields.io/github/commit-activity/t/mlir-internship/slang?style=flat-square" alt="Commit activity">
+  <img src="https://img.shields.io/github/last-commit/mlir-internship/slang?style=flat-square" alt="Last commit">
+</p>
+
+</div>
 
 **Status:** 🚧 Specification complete (v0.1) — compiler implementation in progress.
 
 SLANG is not trying to be a "real" production language. It exists to be *small enough to finish* while still forcing you through every fundamental compiler problem: lexing, parsing, ASTs, symbol tables, type checking, control flow, an MLIR dialect, lowering passes, LLVM IR, and native codegen.
 
 ---
+
+
 
 ## Table of Contents
 
